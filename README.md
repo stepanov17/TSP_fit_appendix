@@ -15,7 +15,7 @@
 <p>
 <p>
 
-3. Coverage intervals [c1, c2] and shortest coverage intervals [d1, d2] for asymmetric TSP(p) defined on [r1, r2] (for scale assume r1 == 1)
+3. Coverage intervals [c1, c2] and shortest coverage intervals [d1, d2] for asymmetric TSP(p) defined on [r1, r2] (for scale assume r1 == 1, x0 == 0), probability level of 95%
 
 <p align="center" width="100%">
     <img src="coverage_intervals.png" width="669"/>
